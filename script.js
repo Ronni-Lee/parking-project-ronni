@@ -1,4 +1,4 @@
-const inputField = document.getElementById('behaviorInput');
+const inputField = document.getElementById('behaviorInput');More actions
 const result = document.getElementById('result');
 const yesSound = document.getElementById('yesSound');
 const noSound = document.getElementById('noSound');
